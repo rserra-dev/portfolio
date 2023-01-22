@@ -1,3 +1,3 @@
-function alerta1(){
-    alert("TE AMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO")
+document.getElementById('boton1').onclick = function(){
+    alert('AMOOOOOOOOOOOOOOOOOOOOOOO');
 }
